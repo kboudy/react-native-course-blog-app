@@ -1,3 +1,4 @@
 # react-native-course-blog-app
 
-![alt text](../blob/master/readme-media/recreating%20redux.png?raw=true)
+* This app essentially recreates redux:
+![alt text](https://github.com/kboudy/react-native-course-blog-app/blob/master/readme-media/recreating%20redux.png)
