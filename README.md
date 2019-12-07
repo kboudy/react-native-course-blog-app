@@ -9,3 +9,10 @@
 import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
 ```
+
+- in the jsonserver dir, run:
+
+```sh
+npm run db
+npm run tunnel
+```
